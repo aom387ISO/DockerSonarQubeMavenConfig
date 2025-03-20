@@ -70,4 +70,10 @@ Si no es posible habra que darle permisos de ejecución:
 chmod +x Run.sh
 ```
 ### 12. Ahora ya podremos hacer la práctica.
+La práctica consiste en hacer que el proyecto tenga 0 fallos, como la siguiente imagen:
+<img width="982" alt="Captura de pantalla 2025-03-11 a las 19 16 25" src="https://github.com/user-attachments/assets/34fe0953-d7ba-4b07-86b3-bb3465ba8f28" />
+
+Para ello habra que cumplir la guia de estilos de Google para Java, además de resolver bugs y vulnerabilidades.  
+Os proporcionamos la guia de estilos de java para poder hacer la práctica [aquí](https://google.github.io/styleguide/javaguide.html#s3.3-import-statements).  
+Para que se reflejen los cambios del proyecto en el sonarqube habra que ejecutar el **Run.sh**.
 
